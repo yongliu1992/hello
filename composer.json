@@ -1,0 +1,17 @@
+{
+    "name": "yongliu/mycomposer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yongliu",
+            "email": "a3831524@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
